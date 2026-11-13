@@ -29,7 +29,7 @@ class Perfume:
 
     def __del__(self):
         print(f"Об'єкт {self.__brand_name} видалено")
-
+#bbb
 
 def main():
     perfume1 = Perfume()
